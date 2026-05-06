@@ -4,6 +4,13 @@ Developed an interactive HR Analytics Dashboard in Power BI to transform employe
 
 
 
+## Visualization
+
+<p align="center">
+  <img src="Screenshot 2026-05-05 224956.png" width="700"/>
+</p>
+
+
 ## Tools Used
 
 * Power BI
