@@ -68,3 +68,9 @@ Developed an interactive HR Analytics Dashboard in Power BI to transform employe
 * How is the workforce distributed by gender?
 * What are the average age trends across employee categories?
 * How can HR data support workforce planning and decision-making?
+
+
+## Author
+
+Lourdenie Louis  
+Data Analytics Student with hands-on experience in Power BI, SQL, Excel, and dashboard development. Passionate about transforming data into meaningful business insights through visualization and analytics.
